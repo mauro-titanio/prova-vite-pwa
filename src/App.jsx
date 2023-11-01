@@ -28,7 +28,6 @@ function App() {
       <p className='read-the-docs'>
         Click on the Vite and React logos to learn more
       </p>
-      MAKE A CHANGE TO TEST IF THE INSTALLED APP NEEDS TO BE UPDATED
     </>
   );
 }
